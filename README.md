@@ -70,5 +70,9 @@ Yes, see `nb/results.ipynb` where the ARIMA and SARIMA model results are compare
 [* AI Workflow: Enterprise Model Deployment] (https://www.coursera.org/account/accomplishments/certificate/3R37ZMTRHAEH)
 [* AI Workflow: AI in Production] (In Progress)
 
+- [Course Certificate](https://www.coursera.org/account/accomplishments/certificate/CW6KMCPPDDKX)
+- [AI Workflow: Enterprise Model Deployment](https://www.coursera.org/account/accomplishments/certificate/3R37ZMTRHAEH)
+- AI Workflow: AI in Production (In Progress)
+
 ## References
 [[1] IBM AI Enterprise Workflow Specialization](https://www.coursera.org/specializations/ibm-ai-workflow)
