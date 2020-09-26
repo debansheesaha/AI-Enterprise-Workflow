@@ -61,3 +61,14 @@ Yes, see `nb/analysis.ipynb` which includes time-series, seasonal-trend decompos
 Yes, see `Dockerfile`.
 - Did they use a visualization to compare their model to the baseline model?\
 Yes, see `nb/results.ipynb` where the ARIMA and SARIMA model results are compared to the actual revenue.
+
+## Certificate
+* AI Workflow: Business Priorities and Data Ingestion (https://www.coursera.org/account/accomplishments/certificate/2X2RFPD9DQVU)
+* AI WOrkflow: Data Analysis and Hypothesis Testing (https://www.coursera.org/account/accomplishments/certificate/MLG59HKYWDZU)
+* AI Workflow: Feature Engineering and Bias Detection (https://www.coursera.org/account/accomplishments/certificate/TTB9B9CQ4VP8)
+* AI WOrkflow: Machine Learning, Visual Recognition and NLP (https://www.coursera.org/account/accomplishments/certificate/N5XX4T5TQGUM)
+* AI WOrkflow: Enterprise Model Deployment (https://www.coursera.org/account/accomplishments/certificate/3R37ZMTRHAEH)
+* AI WOrkflow: AI in Production (In Progress)
+
+## References
+[1] IBM AI Enterprise Workflow Specialization(https://www.coursera.org/specializations/ibm-ai-workflow)
