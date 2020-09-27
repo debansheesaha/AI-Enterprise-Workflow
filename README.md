@@ -63,12 +63,14 @@ Yes, see `Dockerfile`.
 Yes, see `nb/results.ipynb` where the ARIMA and SARIMA model results are compared to the actual revenue.
 
 ## Certificate
-- [AI Workflow: Business Priorities and Data Ingestion](https://www.coursera.org/account/accomplishments/certificate/2X2RFPD9DQVU)
-- [AI Workflow: Data Analysis and Hypothesis Testing](https://www.coursera.org/account/accomplishments/certificate/MLG59HKYWDZU)
-- [AI Workflow: Feature Engineering and Bias Detection](https://www.coursera.org/account/accomplishments/certificate/TTB9B9CQ4VP8)
-- [AI Workflow: Machine Learning, Visual Recognition and NLP](https://www.coursera.org/account/accomplishments/certificate/N5XX4T5TQGUM)
-- [AI Workflow: Enterprise Model Deployment](https://www.coursera.org/account/accomplishments/certificate/3R37ZMTRHAEH)
-- [AI Workflow: AI in Production](https://www.coursera.org/account/accomplishments/certificate/HPHJ9H2RAW43)
+[IBM AI Enterprise Workflow Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/FEMQA3MYLH4B)
+
+[[1] AI Workflow: Business Priorities and Data Ingestion](https://www.coursera.org/account/accomplishments/certificate/2X2RFPD9DQVU)
+[[2] AI Workflow: Data Analysis and Hypothesis Testing](https://www.coursera.org/account/accomplishments/certificate/MLG59HKYWDZU)
+[[3] AI Workflow: Feature Engineering and Bias Detection](https://www.coursera.org/account/accomplishments/certificate/TTB9B9CQ4VP8)
+[[4] AI Workflow: Machine Learning, Visual Recognition and NLP](https://www.coursera.org/account/accomplishments/certificate/N5XX4T5TQGUM)
+[[5] AI Workflow: Enterprise Model Deployment](https://www.coursera.org/account/accomplishments/certificate/3R37ZMTRHAEH)
+[[6] AI Workflow: AI in Production](https://www.coursera.org/account/accomplishments/certificate/HPHJ9H2RAW43)
 
 ## References
 [[1] IBM AI Enterprise Workflow Specialization](https://www.coursera.org/specializations/ibm-ai-workflow)
